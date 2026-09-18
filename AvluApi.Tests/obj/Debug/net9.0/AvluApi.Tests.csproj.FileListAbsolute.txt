@@ -1,0 +1,7 @@
+/Users/tasar/AvluApi/AvluApi.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_AvluApi.Tests
+/Users/tasar/AvluApi/AvluApi.Tests/obj/Debug/net9.0/AvluApi.Tests.csproj.AssemblyReference.cache
+/Users/tasar/AvluApi/AvluApi.Tests/obj/Debug/net9.0/MvcTestingAppManifest.json
+/Users/tasar/AvluApi/AvluApi.Tests/obj/Debug/net9.0/AvluApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tasar/AvluApi/AvluApi.Tests/obj/Debug/net9.0/AvluApi.Tests.AssemblyInfoInputs.cache
+/Users/tasar/AvluApi/AvluApi.Tests/obj/Debug/net9.0/AvluApi.Tests.AssemblyInfo.cs
+/Users/tasar/AvluApi/AvluApi.Tests/obj/Debug/net9.0/AvluApi.Tests.csproj.CoreCompileInputs.cache
